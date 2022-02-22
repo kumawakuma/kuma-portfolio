@@ -1,4 +1,4 @@
-## portfolio
+## Portfolio
 This is my small project using html/css/bootstrap. I will be using this to showcase my projects. 
 [Live Heroku Deployment](https://portfolio-kuma.herokuapp.com/)
 
